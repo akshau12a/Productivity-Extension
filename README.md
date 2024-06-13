@@ -18,7 +18,7 @@ Start recording your screen with a single click.
 The recording automatically stops after a set duration (10 seconds for demo purposes) and saves as a .webm file on your desktop.
 Suitable for capturing important workflows or presentations.
 ## Screenshot
-![ytss1](https://github.com/akshau12a/Productivity-Extension/assets/92288367/0507c322-15fb-492b-9168-5166c3ee5671)
+![screenshot](https://github.com/akshau12a/Productivity-Extension/assets/92288367/3e78c21c-6e23-47cb-96d5-0313f81404ec)
 ![todo1](https://github.com/akshau12a/Productivity-Extension/assets/92288367/eb71f91b-a89c-4d83-8cd8-21852682857a)
 ![todo2](https://github.com/akshau12a/Productivity-Extension/assets/92288367/7e4e7c4d-2071-4b4e-bdba-5f528cbb9bf9)
 
